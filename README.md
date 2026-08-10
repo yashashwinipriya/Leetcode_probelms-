@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -20,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
