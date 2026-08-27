@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0189-rotate-array) |
+| [2413-smallest-even-multiple](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
