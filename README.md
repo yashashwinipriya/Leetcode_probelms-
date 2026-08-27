@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/0189-rotate-array) |
 | [2413-smallest-even-multiple](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/2413-smallest-even-multiple) |
+| [2651-calculate-delayed-arrival-time](https://github.com/yashashwinipriya/Leetcode_probelms-/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
 |  |
 | ------- |
